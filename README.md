@@ -28,7 +28,7 @@ JavaScript → Funcionalidad interactiva (agregar amigos y sortear).
 
 ### 1️⃣ Clonar el repositorio
 
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/lastHunter956/challenge-amigo-secreto-proyecto-final-curso-alura 
 
 ### 2️⃣ Abrir el proyecto
 
@@ -50,18 +50,22 @@ Navega hasta la carpeta clonada y abre el archivo index.html en un navegador.
 ## 📂 Estructura del Proyecto
 
 📁 amigo-secreto
+
 │── 📜 index.html        # Página principal
+
 │── 📜 style.css         # Estilos del proyecto
+
 │── 📜 app.js            # Lógica de la aplicación
+
 │── 📁 assets            # Imágenes y recursos
+
 └── 📜 README.md         # Documentación del proyecto
 
 
 ---
 
 ## ❓ Posibles Mejoras
-
-🔹 Agregar la opción de eliminar amigos de la lista.
-🔹 Implementar la asignación automática de amigos secretos.
-🔹 Guardar la lista en el almacenamiento local para que no se pierda al recargar.
+- Agregar la opción de eliminar amigos de la lista.
+- Implementar la asignación automática de amigos secretos.
+- Guardar la lista en el almacenamiento local para que no se pierda al recargar.
 
